@@ -20,5 +20,8 @@ This project has the following flow:
 * Feature Engineering (on collected Data)
 * Exploratory Data Analysis 
 * Recommendation System
-    * Recommendaation based on Filtering
-    * Recommendation based on Cossine Similarities 
+    * Recommendation based on Filtering
+    * Recommendation based on Cossine Similarities
+ 
+## Project Flow
+![Project flow](https://github.com/d-sanjukta/CourseRecommender/blob/56fbc180e145d04ee10a881dd3726c61a9a4fdbb/image/project_flow.png)
